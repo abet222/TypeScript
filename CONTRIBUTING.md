@@ -4,7 +4,7 @@
 
 Please [read the FAQ](https://github.com/Microsoft/TypeScript/wiki/FAQ) before logging new issues, even if you think you have found a bug.
 
-Issues that ask questions answered in the FAQ will be closed without elaboration.
+Issues that ask questions answered in the FAQ will be closed without elaboration.bla bla bla ble ble ble
 
 ## 2. Search for Duplicates
 
